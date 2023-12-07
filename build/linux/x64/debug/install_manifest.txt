@@ -1,0 +1,13 @@
+/home/beehyv/Desktop/Flutter-Random-Word-Generator/build/linux/x64/debug/bundle/flutter_first_application
+/home/beehyv/Desktop/Flutter-Random-Word-Generator/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/beehyv/Desktop/Flutter-Random-Word-Generator/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/beehyv/Desktop/Flutter-Random-Word-Generator/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/beehyv/Desktop/Flutter-Random-Word-Generator/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/beehyv/Desktop/Flutter-Random-Word-Generator/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/beehyv/Desktop/Flutter-Random-Word-Generator/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/beehyv/Desktop/Flutter-Random-Word-Generator/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/beehyv/Desktop/Flutter-Random-Word-Generator/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/beehyv/Desktop/Flutter-Random-Word-Generator/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/beehyv/Desktop/Flutter-Random-Word-Generator/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/beehyv/Desktop/Flutter-Random-Word-Generator/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/beehyv/Desktop/Flutter-Random-Word-Generator/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
